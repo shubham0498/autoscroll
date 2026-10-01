@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoScroll</string>
+    <string name="service_description">Swipes to the next Instagram Reel or YouTube Short when the current one ends. Only active inside Instagram and YouTube, and only when you turn it on from the floating button.</string>
+</resources>
